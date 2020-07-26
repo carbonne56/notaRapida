@@ -1,0 +1,11 @@
+TODO:
+ DONE - Add countdown to start the game;
+ DONE - Create win and loss situations;
+ DONE - Draw little lines on treble and bass notes;
+      - Create levels;
+      - Display only needed butons;
+      - Add note sounds;
+      - Create animations;
+      - Create and add sound effects;
+      - Create afterGameScene;
+      - Create Badges;
